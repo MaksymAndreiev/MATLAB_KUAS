@@ -6,6 +6,9 @@ respectively. A triangle was drawn among their centers.
 Create MATLAB Live Script that includes 2 sections (Text section & Code Section)
 as shown in the following image.
 
+![image](https://github.com/MaksymAndreiev/MATLAB_KUAS/assets/29687267/32669b0e-db91-4afb-b199-bb5ec750fa82)
+
+
 ## In the text Section:
 
 (a) Write the text "Triangle Live Script" as Title.
