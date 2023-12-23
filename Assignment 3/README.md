@@ -19,7 +19,7 @@ as shown in the following image.
 (c) Write the text "Law of cosines" as Heading 1.
 
 (d) Write the following Equation\
-$$𝑐^2 =𝑎^2 +𝑏^2 − 2*a*b*\cos(y)$$
+$$c^2 = a^2 + b^2 - 2ab \cos(y)$$
 
 ## In the Code Section
 
